@@ -13,15 +13,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-success" alt="Project status">
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/kwwScs0isIk">
-    <img src="https://img.youtube.com/vi/kwwScs0isIk/maxresdefault.jpg" alt="Clinical Risk Assessment Tool Demo">
-  </a>
-</p>
 
-<p align="center">
-  <strong>▶️ Watch the Project Demo</strong>
-</p>
 ---
 
 ## 📌 Overview
